@@ -1,1 +1,1 @@
-print('Я домашка important')
+print('Я домашка very important')
